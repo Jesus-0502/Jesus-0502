@@ -1,7 +1,9 @@
 # 👋 Hola! Bienvenido a mi perfil de Github :D  
 
 🎓 Estudiante de Ingenieria de Computación en la Universidad Simón Bolivar \
-🌱 Actualmente aprendiendo **JavaScript y NestJS**  
+🌱 Actualmente aprendiendo:
+  - **Shell Scripting y Docker**
+  - **JavaScript y NestJS**  
 ☕ Fan del café
 
 ---
@@ -26,6 +28,11 @@
 ---
 
 ## 📫 Conecta conmigo
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/tu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-JesusGutierrez-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/TU_USUARIO)
+
+[![Instagram](https://img.shields.io/badge/Instagram-yisus_0502-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/TU_USUARIO)
+
+[![Gmail](https://img.shields.io/badge/Gmail-jesusgutierrez4825@gmail.com-c14438?logo=gmail&logoColor=white&style=for-the-badge)](mailto:TU_CORREO)
+
+
 
