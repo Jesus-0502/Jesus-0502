@@ -28,7 +28,7 @@
 ---
 
 ## 📫 Conecta conmigo
-[![LinkedIn](https://img.shields.io/badge/in-JesusGutierrez-white?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2)](https://www.linkedin.com/in/TU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/in-jesusgutierrez-white?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2)](https://www.linkedin.com/in/jesusgutierrez)
 
 [![Instagram](https://img.shields.io/badge/Instagram-yisus_0502-E4405F?logo=instagram&logoColor=E4405F&style=for-the-badge)](https://instagram.com/TU_USUARIO)
 
