@@ -30,9 +30,9 @@
 ## 📫 Conecta conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JesusGutierrez-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/TU_USUARIO)
 
-[![Instagram](https://img.shields.io/badge/Instagram-yisus_0502-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/TU_USUARIO)
+[![Instagram](https://img.shields.io/badge/Instagram-yisus_0502-E4405F?logo=instagram&logoColor=E4405F&style=for-the-badge)](https://instagram.com/TU_USUARIO)
 
-[![Gmail](https://img.shields.io/badge/Gmail-jesusgutierrez4825@gmail.com-c14438?logo=gmail&logoColor=white&style=for-the-badge)](mailto:TU_CORREO)
+[![Gmail](https://img.shields.io/badge/Gmail-jesusgutierrez4825@gmail.com-c14438?logo=gmail&logoColor=c14438&style=for-the-badge)](mailto:TU_CORREO)
 
 
 
